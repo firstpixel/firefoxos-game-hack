@@ -8,3 +8,4 @@ _index.html
 weltmeister.html
 
 !lib/game/main.js
+!lib/plugins/**/*
