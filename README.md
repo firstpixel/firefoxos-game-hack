@@ -1,6 +1,6 @@
 #Firefox OS Game Hackathon
 
-## Sick Sk8r
+## Stick Sk8r
 
 Developers:
 * [Daniel Filho](http://github.com/danielfilho)
