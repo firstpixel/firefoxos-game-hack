@@ -1,11 +1,8 @@
 .DS_Store
 *.swp
 resources
-lib
+lib/impact
 media
 tools
 _index.html
 weltmeister.html
-
-!lib/game/main.js
-!lib/plugins/parallax.js
