@@ -1,0 +1,21 @@
+{
+  "name": "Stick Skater",
+  "description": "A stickman skater having fun on the streets",
+  "default_locale": "en",
+  "developer": {
+    "name": "Daniel Filho, Gil Beyruth and Marco Bruno",
+    "url": "http://danielfilho.info/stickmanskater"
+  },
+
+  "launch_path": "/index.html",
+  "orientation": "landscape",
+  "fullscreen": "true",
+
+  "icons": {
+    "16": "/images/icon16.png",
+    "32": "/images/icon32.png",
+    "48": "/images/icon48.png",
+    "64": "/images/icon64.png",
+    "128": "/images/icon128.png"
+  }
+}
