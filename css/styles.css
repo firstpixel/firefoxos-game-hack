@@ -33,6 +33,18 @@ html,body {
     z-index: 2;
 }
 
+.gameover_modal{
+    position: absolute;
+    z-index: 3;
+    margin-left: 50%;
+    left: -185px;
+    width: 370px;
+    height: 202px;
+    background-image: url('../images/gameover.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 .btnPlayPause.paused{
     background-image: url('../images/btn-play.png');
 }
