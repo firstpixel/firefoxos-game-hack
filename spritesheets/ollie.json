@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "ollie0001.png",
+	"frame": {"x":3000,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0002.png",
+	"frame": {"x":2850,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0003.png",
+	"frame": {"x":2700,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0004.png",
+	"frame": {"x":2550,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0005.png",
+	"frame": {"x":2400,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0006.png",
+	"frame": {"x":2250,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0007.png",
+	"frame": {"x":2100,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0008.png",
+	"frame": {"x":1950,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0009.png",
+	"frame": {"x":1800,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0010.png",
+	"frame": {"x":1650,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0011.png",
+	"frame": {"x":1500,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0012.png",
+	"frame": {"x":1350,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0013.png",
+	"frame": {"x":1200,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0014.png",
+	"frame": {"x":1050,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0015.png",
+	"frame": {"x":900,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0016.png",
+	"frame": {"x":750,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0017.png",
+	"frame": {"x":600,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0018.png",
+	"frame": {"x":450,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0019.png",
+	"frame": {"x":300,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0020.png",
+	"frame": {"x":150,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+},
+{
+	"filename": "ollie0021.png",
+	"frame": {"x":0,"y":0,"w":150,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":115},
+	"sourceSize": {"w":150,"h":115}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ollie.png",
+	"format": "RGBA8888",
+	"size": {"w":3150,"h":115},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:10f09da50189071f04c9c592a81899ca$"
+}
+}
