@@ -1,8 +1,6 @@
 .DS_Store
 *.swp
 resources
-lib/impact
-lib/weltmeister
 tools
 _index.html
 weltmeister.html
