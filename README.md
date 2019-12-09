@@ -1,8 +1,15 @@
 #Firefox OS Game Hackathon
 
+Game developed in 48hrs by Gil Beyruth, Daniel Filho and Marco Bruno, at Firefox OS Game Hackathon on 8 and 9 of June 2013.
+
 ## Stick Sk8r
 
 Build the docker container
+```
+docker build -t <your username>/stick_skater .
+```
+
+Run the container:
 ```
 docker run -p 1234:3030 -d <your username>/stick_skater
 ```
